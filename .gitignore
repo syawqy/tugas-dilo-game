@@ -69,3 +69,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/latihan-1-pong/build
+/latihan-1-pong/Logs
+/latihan-1-pong/obj/Debug
+/latihan-1-pong/Library
+/latihan-1-pong/UserSettings
